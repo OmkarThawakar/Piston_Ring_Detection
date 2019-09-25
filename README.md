@@ -1,7 +1,10 @@
 ### Piston Ring Detection
 
-This project is developed in CVPR Lab, IIT Ropar.
+This project is designed anddeveloped in CVPR Lab, IIT Ropar, India.
+
 Guide : Dr. Subrahmanyam Murala
+
+Sponsored By : Yamaha Labs, India.
 
 
 #### Objective
@@ -12,3 +15,19 @@ Our project aims the real time detection of the  rings in piston. Our objective 
 
 ### Approach 
 We implement our project with Deep Learning which include Generative Advarserial Network 
+
+### Output Format
+![alt text](images/Slide1.PNG)
+![alt text](images/Slide2.PNG)
+
+### Hardware Used
+![alt text](images/Slide3.PNG)
+![alt text](images/Slide4.PNG)
+![alt text](images/Slide5.PNG)
+
+### Results
+
+Click on Below 
+
+[![Piston Ring Detection](https://github.com/OmkarThawakar/Piston_Ring_Detection/blob/master/images/gif%20(1).gif)](https://www.youtube.com/watch?v=dnUgzh3ULrM)
+
