@@ -1,6 +1,6 @@
 ### Piston Ring Detection
 
-This project is designed anddeveloped in CVPR Lab, IIT Ropar, India.
+This project is designed and developed in CVPR Lab, IIT Ropar, India.
 
 Guide : Dr. Subrahmanyam Murala
 
